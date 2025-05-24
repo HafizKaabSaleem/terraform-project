@@ -1,0 +1,7 @@
+*.tfstate
+*.tfstate.backup
+*.terraform/
+crash.log
+*.log
+*terra-key-ec2
+*terra-key-ec2.pub

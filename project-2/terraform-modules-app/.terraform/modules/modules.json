@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"dev-infra","Source":"./infra-app","Dir":"infra-app"},{"Key":"prd-infra","Source":"./infra-app","Dir":"infra-app"},{"Key":"stg-infra","Source":"./infra-app","Dir":"infra-app"}]}
